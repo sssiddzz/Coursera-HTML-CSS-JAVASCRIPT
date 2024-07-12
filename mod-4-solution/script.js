@@ -1,7 +1,7 @@
 
 
 
-(function () {
+function () {
 
   var names = ["Siddharth", "Rohit", "Virat", "Hardik", "Jasprit", "Surya", "Rishabh", "Axar", "Gill", "Sanju","Jimmy"];
   
@@ -16,7 +16,7 @@
     }
   }
   
-  })();
+  }
   
   
   
